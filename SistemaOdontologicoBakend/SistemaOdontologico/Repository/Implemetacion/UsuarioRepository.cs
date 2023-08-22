@@ -44,13 +44,13 @@ namespace SistemaOdontologico.Repositorios.Implemetacion
     {
       try
       {
-        var odontologoEncontrado = await _UsuarioRepositorio
+        var usuarioEncontrado = await _UsuarioRepositorio
             .Obtenerid(u => u.Id == id);
-        var listaUsuario = odontologoEncontrado.Include(rol => rol.Rol).ToList();
-        var odontologo = listaUsuario.FirstOrDefault();
-        if (odontologo == null)
+        var listaUsuario = usuarioEncontrado.Include(rol => rol.Rol).ToList();
+        var usuario = listaUsuario.FirstOrDefault();
+        if (usuario == null)
           throw new TaskCanceledException("Usuario no encontrado");
-        return _mapper.Map<UsuarioDTO>(odontologo);
+        return _mapper.Map<UsuarioDTO>(usuario);
       }
       catch
       {

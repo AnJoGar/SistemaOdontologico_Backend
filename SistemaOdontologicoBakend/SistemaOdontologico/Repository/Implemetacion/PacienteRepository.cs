@@ -86,11 +86,11 @@ namespace SistemaOdontologico.Repositorios.Implemetacion
     {
       try
       {
-        var odontologoEncontrado = await _PacienteRepositorio.Obtener(u => u.Id == id);
-        if (odontologoEncontrado == null)
+        var pacienteEncontrado = await _PacienteRepositorio.Obtener(u => u.Id == id);
+        if (pacienteEncontrado == null)
           throw new TaskCanceledException("Paciente no encontrado");
 
-        return _mapper.Map<PacienteDTO>(odontologoEncontrado);
+        return _mapper.Map<PacienteDTO>(pacienteEncontrado);
       }
       catch
       {

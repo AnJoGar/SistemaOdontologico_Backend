@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZzckYHOPoEPlaJsw6p6Nvy6t0HiZvrR+VZEYtb0EHQ2a6uGNXHKk+9hAAqJ7SKcOA7KSKk5y9xBrtLdHmF7Lpw==",
+  "dgSpecHash": "mPTRfgi1SW8gb+4jYURXC1l/CTA2m5gwdj2BxZKx6MOrUXJI8AiDLsfdAmevQrqPwlCfdBWYZkfmsStok13d6g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\usuario\\Desktop\\Curriculum\\SistemaOdontologico\\SistemaOdontologicoBakend\\SistemaOdontologico\\SistemaOdontologico.csproj",
+  "projectFilePath": "C:\\Users\\usuario\\Desktop\\Curriculum\\Backend_SistemaOdontologico\\SistemaOdontologicoBakend\\SistemaOdontologico\\SistemaOdontologico.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\usuario\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\usuario\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

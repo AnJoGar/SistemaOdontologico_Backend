@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\usuario\\Desktop\\Curriculum\\SistemaOdontologico\\SistemaOdontologicoBakend\\SistemaOdontologico\\SistemaOdontologico.csproj": {}
+    "C:\\Users\\usuario\\Desktop\\Curriculum\\Backend_SistemaOdontologico\\SistemaOdontologicoBakend\\SistemaOdontologico\\SistemaOdontologico.csproj": {}
   },
   "projects": {
-    "C:\\Users\\usuario\\Desktop\\Curriculum\\SistemaOdontologico\\SistemaOdontologicoBakend\\SistemaOdontologico\\SistemaOdontologico.csproj": {
+    "C:\\Users\\usuario\\Desktop\\Curriculum\\Backend_SistemaOdontologico\\SistemaOdontologicoBakend\\SistemaOdontologico\\SistemaOdontologico.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usuario\\Desktop\\Curriculum\\SistemaOdontologico\\SistemaOdontologicoBakend\\SistemaOdontologico\\SistemaOdontologico.csproj",
+        "projectUniqueName": "C:\\Users\\usuario\\Desktop\\Curriculum\\Backend_SistemaOdontologico\\SistemaOdontologicoBakend\\SistemaOdontologico\\SistemaOdontologico.csproj",
         "projectName": "SistemaOdontologico",
-        "projectPath": "C:\\Users\\usuario\\Desktop\\Curriculum\\SistemaOdontologico\\SistemaOdontologicoBakend\\SistemaOdontologico\\SistemaOdontologico.csproj",
+        "projectPath": "C:\\Users\\usuario\\Desktop\\Curriculum\\Backend_SistemaOdontologico\\SistemaOdontologicoBakend\\SistemaOdontologico\\SistemaOdontologico.csproj",
         "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usuario\\Desktop\\Curriculum\\SistemaOdontologico\\SistemaOdontologicoBakend\\SistemaOdontologico\\obj\\",
+        "outputPath": "C:\\Users\\usuario\\Desktop\\Curriculum\\Backend_SistemaOdontologico\\SistemaOdontologicoBakend\\SistemaOdontologico\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -93,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.315\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.316\\RuntimeIdentifierGraph.json"
         }
       }
     }

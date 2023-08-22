@@ -60,10 +60,10 @@ namespace SistemaOdontologico.Controllers
     {
       try
       {
-        var odontologo = await _UsuarioServicios.obtenerPorIdUsuario(id);
-        if (odontologo == null)
+        var usuario = await _UsuarioServicios.obtenerPorIdUsuario(id);
+        if (usuario == null)
           return NotFound();
-        return Ok(odontologo);
+        return Ok(usuario);
       }
       catch
       {
